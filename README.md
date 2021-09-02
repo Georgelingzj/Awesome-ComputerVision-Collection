@@ -1,7 +1,6 @@
-# Read-Papers-Collection
+# Awesome-ComputerVision-Collection
 
 ### 1 Preliminary
-- Author: Zijian Ling
 - Purpose: record papers I read from late Aug. 2021 and some understanding for those papers
 - Format: Sorted by fields(then sort by publised year)
 - Amount of Paper: 
